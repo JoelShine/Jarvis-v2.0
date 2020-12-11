@@ -45,7 +45,7 @@ This project has a variety of features which can help you run the computer more 
 
 ## Commands used in this program to operate Jarvis
 
-1 - dd
+- **To say hello to jarvis-** "*hello jarvis*","*hey jarvis*","*hi jarvis*"
 
 <a name="speech-recognition"/>
 
