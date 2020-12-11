@@ -5,13 +5,30 @@ This is a major update of my project JARVIS-The-Ultimate-Project. You can check 
 
 ## About this project
 
-This project is an example of a virtual assistant like **Siri**, **Cortana**, **Google Assistant** etc. A virtual assistant helps us to control the computer more efficiently and faster. It will be a great experience using Jarvis-v2.0. 
+This project is an example of a virtual assistant like **Siri**, **Cortana**, **Google Assistant** etc. A virtual assistant helps us to control the computer more efficiently and faster. It will be a great experience using Jarvis-v2.0 as it includes a great deal of modules to control the computer. Note that there is both a male voice version and female voice version for jarvis.
 
-## Features
+## Features of the modules used in this project
 
-This project has a variety of features which can help you run the computer more efficiently.
-- [Speech Recognition](#speech-recognition) module for controlling the assistant using voice.
-- [Opencv-python](#opencv-python) module to capture images from webcam.
+This project has a variety of features which can help you run the computer more efficiently. Please click on the **link** with the name of the module to set up the modules in your computer.
+
+- [speech recognition](#speech-recognition) module for controlling the assistant using voice.
+- [opencv-python](#opencv-python) module to capture images from webcam.
 - [ctypes](#ctypes) module for controlling the system tasks like locking, restarting, shutdowning etc.
-<a name="opencv-python"/>
+- [subprocess and operator](#subprocessandoperator) module like ctypes is also used for controlling the computer.
+- [psutil](#psutil) module for *extracting* system information like remaining battery, etc.
+- [plyer](#plyer) module for giving custom notifications to the computer.
+- [pillow (but forked as PIL)](#PIL) module for showing images using the pillow module.
+- [pytesseract](#pytesseract) module for extracting text from images.
+- [youtube_dl](#youtube-dl) module for downloading youtube videosfrom web.
+- [googlesearch](#googlesearch) module for searching on google with a query given as input from python.
+- [time](#time) module for pausing the program accordingly.
+- [tkinter](#tkinter) module for making GUI's like calculator, calendar etc. 
+- [random](#random) module for choosing random things from a list.
+- [datetime](#datetime) module for getting the current date and time.
+- [wikipedia](#wikipedia) module for searching an input in wikipedia and printing the results.
+- [webbrowser](#webbrowser) module for opening websites using python with a given url.
+- [os](#os) module for opening and starting system files, folders and executable file also.
+- [pyttsx3](#pyttsx3) module for text to speech using Sapi 5 (applicable to **Windows** only) For apple, there is [mac-say](https://pypi.org/project/mac-say/) module.
+
+<a name="speech-recognition"/>
 
