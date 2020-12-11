@@ -10,5 +10,52 @@ This project is an example of a virtual assistant like **Siri**, **Cortana**, **
 ## Features
 
 This project has a variety of features which can help you run the computer more efficiently.
-- Speech Recognition 
-- Text to speech using [pyttsx3](https://pypi.org/project/pyttsx3/) module
+- Speech Recognition module for better usage of the assistant.
+- [Opencv-python](#opencv-python) module for better
+
+a
+q
+aa
+d
+ad
+ad
+ad
+ad
+a
+da
+da
+da
+da
+da
+da
+d
+ad
+ad
+ad
+ad
+ad
+a
+a
+dad
+a
+da
+da
+da
+da
+da
+da
+da
+d
+ad
+ad
+ad
+ad
+ad
+ada
+da
+d
+ad
+
+<a name="opencv-python"/>
+
+nothing special
