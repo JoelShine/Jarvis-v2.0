@@ -10,8 +10,8 @@ This project is an example of a virtual assistant like **Siri**, **Cortana**, **
 ## Features
 
 This project has a variety of features which can help you run the computer more efficiently.
-- [Speech Recognition](#speech_recognition) module for controlling the assistant using voice.
+- [Speech Recognition](#speech-recognition) module for controlling the assistant using voice.
 - [Opencv-python](#opencv-python) module to capture images from webcam.
-- 
+- [ctypes](#ctypes) module for controlling the system tasks like locking, restarting, shutdowning etc.
 <a name="opencv-python"/>
 
