@@ -3,9 +3,9 @@ Jarvis-v2.0
 
 This is a major update of my project JARVIS-The-Ultimate-Project. You can check out my first project here [JARVIS-The-Ultimate-Project](https://github.com/JoelShine/JARVIS-The-Ultimate-Project). Made many changes and this is better than the previous version. Also included Speech Recognition and a very own **Launchpad** like Apples's Launchpad in Mac.
 
-<div align=”center”>
-![Image](https://github.com/JoelShine/Jarvis-v2.0/blob/main/images/Jarvis.gif)
-</div>
+<p align="center">
+  <img width="460" height="300" src="https://github.com/JoelShine/Jarvis-v2.0/blob/main/images/Jarvis.gif">
+</p>
 
 ## About this project
 
