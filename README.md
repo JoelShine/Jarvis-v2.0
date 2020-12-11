@@ -43,5 +43,9 @@ This project has a variety of features which can help you run the computer more 
 - [math](#math) module to do mathematical calculations.
 - [keyboard](#keyboard) module to send keys from keyboard automatically like press enter key and other keys.
 
+## Commands used in this program to operate Jarvis
+
+1 - dd
+
 <a name="speech-recognition"/>
 
