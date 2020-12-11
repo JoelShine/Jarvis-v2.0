@@ -10,4 +10,5 @@ This project is an example of a virtual assistant like **Siri**, **Cortana**, **
 ## Features
 
 This project has a variety of features which can help you run the computer more efficiently.
-- hhhh
+- Speech Recognition 
+- Text to speech using [pyttsx3](https://pypi.org/project/pyttsx3/) module
