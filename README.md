@@ -43,9 +43,15 @@ This project has a variety of features which can help you run the computer more 
 - [math](#math) module to do mathematical calculations.
 - [keyboard](#keyboard) module to send keys from keyboard automatically like press enter key and other keys.
 
-## Commands used in this program to operate Jarvis
+## Commands used in this program to operate Jarvis (For jarvia-fmale version, just replace jarvis with jarvia)
 
-- **To say hello to jarvis-** "*hello jarvis*" , "*hey jarvis*" , "*hi jarvis*"
+- **To say hello to jarvis -** "*hello jarvis*" , "*hey jarvis*" , "*hi jarvis*"
+- **To greet jarvis -** "*good morning jarvis*" , "*good evening jarvis*" , "*good night jarvis*"
+- **To ask jarvis how he is -** "*how are you jarvis*" , "*how do you do jarvis*"
+- **To ask jarvis about himself -** "*what is your name*" , "*who are you*"
+- **To ask jarvis to wait -** "*wait jarvis*" , "*wait please*"
+- **To ask jarvis to open apps and programs**
+#^-
 
 <a name="speech-recognition"/>
 
