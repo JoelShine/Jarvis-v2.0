@@ -51,7 +51,7 @@ This project has a variety of features which can help you run the computer more 
 - **To ask jarvis about himself -** "*what is your name*" , "*who are you*"
 - **To ask jarvis to wait -** "*wait jarvis*" , "*wait please*"
 - **To ask jarvis to open apps and programs**
-#^ - **To be very good**
+  - *open cmd*
 
 <a name="speech-recognition"/>
 
