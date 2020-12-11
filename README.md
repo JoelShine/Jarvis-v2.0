@@ -14,7 +14,7 @@ This project has a variety of features which can help you run the computer more 
 - [speech recognition](#speech-recognition) module for controlling the assistant using voice.
 - [opencv-python](#opencv-python) module to capture images from webcam.
 - [ctypes](#ctypes) module for controlling the system tasks like locking, restarting, shutdowning etc.
-- [subprocess and operator](#subprocessandoperator) module like ctypes is also used for controlling the computer.
+- [subprocess and operator](#subprocessandoperator) module like ctypes are also used for controlling the computer.
 - [psutil](#psutil) module for *extracting* system information like remaining battery, etc.
 - [plyer](#plyer) module for giving custom notifications to the computer.
 - [pillow (but forked as PIL)](#PIL) module for showing images using the pillow module.
@@ -29,6 +29,15 @@ This project has a variety of features which can help you run the computer more 
 - [webbrowser](#webbrowser) module for opening websites using python with a given url.
 - [os](#os) module for opening and starting system files, folders and executable file also.
 - [pyttsx3](#pyttsx3) module for text to speech using Sapi 5 (applicable to **Windows** only) For apple, there is [mac-say](https://pypi.org/project/mac-say/) module.
+- [winshell](#winshell) module in our project, is used to empty the recycle bin and it is applicable to **Windows** only.
+- [pyjokes](#pyjokes) module is used to give random jokes.
+- [feedparser](#feedparser) module is to parse or extract information from a website.
+- [shutil](#shutil) module offers a number of high-level operations on files and collections of files.
+- [requests, urllib.requests and bs4(BeautifulSoup)](#requests) modules are used for web scraping like extracting information from a website.
+- [pygame (pygame.mixer)](#pygame) module is used for controlling the audio played in the computer using tkinter and pygame.
+- [pyqrcode](#pyqrcode) module to generate qr codes to open websites.
+- [math](#math) module to do mathematical calculations.
+- [keyboard](#keyboard) module to send keys from keyboard automatically like press enter key and other keys.
 
 <a name="speech-recognition"/>
 
