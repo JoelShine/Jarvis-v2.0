@@ -50,8 +50,40 @@ This project has a variety of features which can help you run the computer more 
 - **To ask jarvis how he is -** "*how are you jarvis*" , "*how do you do jarvis*"
 - **To ask jarvis about himself -** "*what is your name*" , "*who are you*"
 - **To ask jarvis to wait -** "*wait jarvis*" , "*wait please*"
-- **To ask jarvis to open apps and programs**
-  - *open cmd*
+- **To ask jarvis to open apps, sites and programs**
+  - "*open cmd*" , "*open command prompt*"
+  - "*open google*" , "*show google*"
+  - "*open calendar*" , "*show calendar*"
+  - "*open whatsapp*" , "*show whatsapp*" (If you have whatsapp)
+  - "*open wolframalpha*" , "*show wolframalpha*"
+  - "*open youtube*" , "*show youtube*"
+  - "*open gmail*" , "*show gmail*" , "open g mail" , "show g mail"
+  - "*open notepad*" , "*show notepad*"
+- **Ask jarvis about the time -** "*what is the time jarvis*" , "*say the time jarvis*"
+- **Ask jarvis about the current weather -** "*what is the weather jarvis*" , "*get the weather jarvis*"
+- **Ask jarvis about the date -** "*what is the date jarvis*" , "*say the date jarvis*"
+- **Ask jarvis about the time -** "*what is the time jarvis*" , "*say the date jarvis*"
+- **Ask jarvis about the current news -** "*what is the news jarvis*" , "*say news jarvis*" , "*open news jarvis*"
+- **Ask jarvis to say some joke -** "*say a joke jarvis*" , "*tell a joke jarvis*"
+- **Ask jarvis to play some music -** "*play a music jarvis*" , "*play some music jarvis*"
+- **Ask jarvis to take a picture -** "*take a pic jarvis*" , "*take a picture jarvis*"
+- **Ask jarvis to take screenshot -** "*take a screenshot jarvis*"
+- **Ask jarvis to take a note -** "*take a note jarvis*" , "*take some note jarvis*"
+- **Ask jarvis to lock the device -** "*lock the device jarvis*"
+- **Ask jarvis to sent a gmail -** "*sent a gmail jarvis*" , "*sent mail jarvis*"
+- **Ask jarvis to empty the recycle bin -** "*empty recycle bin jarvis*" , "*empty trash jarvis*" , "*empty bin jarvis*"
+- **To stimulate jarvis -** "*wake up jarvis*" , "*jarvis*"
+- **To search in wikipedia -** "*search in wiki jarvis*" , "*search wikipedia jarvis*"
+- **To open jarvis's own recorder -** "*record jarvis*" , "*jarvis record*"
+- **To download youtube videos -** "*download a video jarvis*" , "*download youtube video jarvis*"
+- **To extract text from image (pytesserct) -** "*ocr jarvis*" , "*extract text from image jarvis*"
+- **To generate qr code to open website -** "*qr code jarvis*" , "*q r code jarvis*"
+- **To show the remaining battery -** "*what is the battery remaining*" , "*show battery jarvis*"
+- **To open jarvis's own video player -** "*record jarvis*" , "*jarvis record*"
+- **To open jarvis's own launchpad -** "*record jarvis*" , "*jarvis record*"
+- **To open jarvis's own browser -** "*open my browser jarvis*" , "*open browser jarvis*"
+- **To tarnslate -** "*tarnslate jarvis*"
+- **To search something on google -** Just say what you want to search on google.
 
 <a name="speech-recognition"/>
 
