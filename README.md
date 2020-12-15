@@ -84,3 +84,9 @@ This project has a variety of features which can help you run the computer more 
 - **To open jarvis's own browser -** "*open my browser jarvis*" , "*open browser jarvis*"
 - **To tarnslate -** "*tarnslate jarvis*"
 - **To search something on google -** Just say what you want to search on google.
+
+## Inspiration and sources
+
+Some features of this project, you may find in many other projects. Some of them are below :
+
+1 ) Jarvis v2.0 lock screen was taken from [Wanderson-Magalhaes/Splash_Screen_Python_PySide2](https://github.com/Wanderson-Magalhaes/Splash_Screen_Python_PySide2). 
