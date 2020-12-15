@@ -84,6 +84,3 @@ This project has a variety of features which can help you run the computer more 
 - **To open jarvis's own browser -** "*open my browser jarvis*" , "*open browser jarvis*"
 - **To tarnslate -** "*tarnslate jarvis*"
 - **To search something on google -** Just say what you want to search on google.
-
-<a name="speech-recognition"/>
-
