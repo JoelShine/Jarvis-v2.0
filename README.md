@@ -11,6 +11,12 @@ This is a major update of my project JARVIS-The-Ultimate-Project. You can check 
 
 This project is an example of a virtual assistant like **Siri**, **Cortana**, **Google Assistant** etc. A virtual assistant helps us to control the computer more efficiently and faster. It will be a great experience using Jarvis-v2.0 as it includes a great deal of modules to control the computer. Note that there is both a male voice version and female voice version for jarvis.
 
+## To improve this project
+
+You can join in my discussions in github itself so that you can give suggestions regarding this project to make it wonderful even more. At the time being, this project can only be run in console and don't have a GUI. So you can talk about adding a GUI (Graphical User Interface) to this project so that it will be even more elegent looking, just like Tony Stark's. Feel free to comment and start any issues you face.
+
+Link to my Github discussions - [Jarvis v2.0 Discussions](https://github.com/JoelShine/Jarvis-v2.0/discussions/1)
+
 ## Features of the modules used in this project
 
 This project has a variety of features which can help you run the computer more efficiently. Please click on the **link** with the name of the module to set up the modules in your computer.
