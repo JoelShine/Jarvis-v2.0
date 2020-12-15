@@ -89,4 +89,4 @@ This project has a variety of features which can help you run the computer more 
 
 Some features of this project, you may find in many other projects. Some of them are below :
 
-1 ) Jarvis v2.0 lock screen was taken from [Wanderson-Magalhaes/Splash_Screen_Python_PySide2](https://github.com/Wanderson-Magalhaes/Splash_Screen_Python_PySide2). 
+1 ) Jarvis v2.0 loading screen was taken from [Wanderson-Magalhaes/Splash_Screen_Python_PySide2](https://github.com/Wanderson-Magalhaes/Splash_Screen_Python_PySide2). 
