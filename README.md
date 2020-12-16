@@ -30,7 +30,7 @@ This is the link to the download - https://files3.codecguide.com/K-Lite_Codec_Pa
     
 2 ) Demo of Jarvis very own Launchpad (works perfectly) - In this [link], you can see the demo. It is a wonderful combination of PyQt5 and many other modules to create this. Hope you enjoy it.
 
-**Screenshot of Jarvis's very own Multimedia Player**
+**Screenshot of Jarvis's very own Launchpad**
 
 [<img src="https://github.com/JoelShine/Jarvis-v2.0/blob/main/images/Jarvis Launchpad.png">](https://screenrec.com/share/rJuHMs4UXQ)
 
