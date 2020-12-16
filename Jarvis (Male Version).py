@@ -44,10 +44,6 @@ def speak(audio):
 speak("Loading Jarvis version 2 point o")
 
 speak("Finished Loading !")
-print("Finished Loading !")
-print("")
-print("")
-
 
 notification.notify(
         title="Jarvis 2.0",
