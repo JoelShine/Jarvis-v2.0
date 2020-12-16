@@ -13,6 +13,21 @@ This is a major update of my project JARVIS-The-Ultimate-Project. You can check 
 
 This project is an example of a virtual assistant like **Siri**, **Cortana**, **Google Assistant** etc. A virtual assistant helps us to control the computer more efficiently and faster. It will be a great experience using Jarvis-v2.0 as it includes a great deal of modules to control the computer. Note that there is both a male voice version and female voice version for jarvis.
 
+## Bits and Bytes of the project
+
+Some of the project details are given below : 
+
+1 ) Demo of Jarvis's very own Multimedia player (works perfectly) - In this [link](https://screenrec.com/share/3BD1q5AT9R).
+Please note that you cannot play **".mp4"** videos in this player if you don't have this application called K-Lite Codec Pack Basic. Version
+is not necessarily be the same, but you have to download it. It only works with .avi or .mp4 if you don't download K-Lite Codec Pack Basic.
+This is the link to the download - https://files3.codecguide.com/K-Lite_Codec_Pack_1590_Basic.exe
+
+[<img src="https://github.com/JoelShine/Jarvis-v2.0/blob/main/images/Jarvis.gif">](https://screenrec.com/share/3BD1q5AT9R)
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+    
+2 ) Demo of Jarvis very own Launchpad (works perfectly)
+
 ## To improve this project
 
 You can join in my discussions in github itself so that you can give suggestions regarding this project to make it wonderful even more. At the time being, this project can only be run in console and don't have a GUI. So you can talk about adding a GUI (Graphical User Interface) to this project so that it will be even more elegent looking, just like Tony Stark's. Feel free to comment and start any issues you face.
@@ -92,12 +107,6 @@ This project has a variety of features which can help you run the computer more 
 - **To open jarvis's own browser -** "*open my browser jarvis*" , "*open browser jarvis*"
 - **To tarnslate -** "*tarnslate jarvis*"
 - **To search something on google -** Just say what you want to search on google.
-
-## Inspiration and sources
-
-Some features of this project, you may find in many other projects. Some of them are below :
-
-1 ) Jarvis v2.0 loading screen was taken from [Wanderson-Magalhaes/Splash_Screen_Python_PySide2](https://github.com/Wanderson-Magalhaes/Splash_Screen_Python_PySide2).
 
 ## Major defects of the project
 
