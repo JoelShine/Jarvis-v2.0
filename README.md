@@ -16,13 +16,16 @@ This project is an example of a virtual assistant like **Siri**, **Cortana**, **
 ## Bits and Bytes of the project
 
 Some of the project details are given below : 
+<p align="center">
+[<img src="https://github.com/JoelShine/Jarvis-v2.0/blob/main/images/Jarvis.gif">](https://screenrec.com/share/3BD1q5AT9R)
+</p>
 
-1 ) [<img src="https://github.com/JoelShine/Jarvis-v2.0/blob/main/images/Jarvis.gif">](https://screenrec.com/share/3BD1q5AT9R)
+Demo of Jarvis's very own Multimedia player (works perfectly) - In this [link](https://screenrec.com/share/3BD1q5AT9R).
+Please note that you cannot play **".mp4"** videos in this player if you don't have this application called K-Lite Codec Pack Basic. Version
+is not necessarily be the same, but you have to download it. It only works with .avi or .mp4 if you don't download K-Lite Codec Pack Basic.
+This is the link to the download - https://files3.codecguide.com/K-Lite_Codec_Pack_1590_Basic.exe
 
-    Demo of Jarvis's very own Multimedia player (works perfectly) - In this [link](https://screenrec.com/share/3BD1q5AT9R).
-    Please note that you cannot play **".mp4"** videos in this player if you don't have this application called K-Lite Codec Pack Basic. Version
-    is not necessarily be the same, but you have to download it. It only works with .avi or .mp4 if you don't download K-Lite Codec Pack Basic.
-    This is the link to the download - https://files3.codecguide.com/K-Lite_Codec_Pack_1590_Basic.exe
+-----------------------------------------------------------------------------------------------------------------------------------------
     
 2 ) Demo of Jarvis very own Launchpad (works perfectly)
 
