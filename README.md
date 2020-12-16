@@ -17,8 +17,7 @@ This project is an example of a virtual assistant like **Siri**, **Cortana**, **
 
 Some of the project details are given below : 
 <p align="center">
-[<img src="https://github.com/JoelShine/Jarvis-v2.0/blob/main/images/Jarvis.gif">](https://screenrec.com/share/3BD1q5AT9R)
-</p>
+[< <p align="center"> img src="https://github.com/JoelShine/Jarvis-v2.0/blob/main/images/Jarvis.gif" </p>>](https://screenrec.com/share/3BD1q5AT9R)
 
 Demo of Jarvis's very own Multimedia player (works perfectly) - In this [link](https://screenrec.com/share/3BD1q5AT9R).
 Please note that you cannot play **".mp4"** videos in this player if you don't have this application called K-Lite Codec Pack Basic. Version
