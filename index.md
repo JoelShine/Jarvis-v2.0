@@ -57,8 +57,9 @@ print("Humidity = " + str(current_humidiy) + " %")
 print("Description = " + str(weather_description))
 print("")
 ```
+This code will only work if you are running the code in Jarvis v2.0. Because **speak("Something here")** is different for different people.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see .
 
 ### Jekyll Themes
 
@@ -66,4 +67,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with Jarvis v2.0 Github Pages? Check out my Project here at [Jarvis v2.0](https://github.com/JoelShine/Jarvis-v2.0). If you are having any doubt, please comment in my discussions or feel free to open an issue. 
