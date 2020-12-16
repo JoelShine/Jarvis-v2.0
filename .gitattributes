@@ -1,7 +1,7 @@
 ## Unity ##
 
 *.html linguist-detectable=false
-*.TeX linguist-detectable=false
+*.text linguist-detectable=false
 
 *.cs diff=csharp text
 *.cginc text
