@@ -8,6 +8,10 @@
 *.pyz linguist-detectable=false
 *.txt linguist-detectable=false
 *.zip linguist-detectable=false
+*.pyd linguist-detectable=false
+*.tcl linguist-detectable=false
+*.msg linguist-detectable=false
+*.tex linguist-detectable=false
 
 *.cs diff=csharp text
 *.cginc text
