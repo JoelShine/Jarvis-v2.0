@@ -1,3 +1,5 @@
+[![GitHub license](https://img.shields.io/github/license/JoelShine/Jarvis-v2.0?style=flat-square)](https://github.com/JoelShine/Jarvis-v2.0/blob/main/LICENSE)
+
 Jarvis-v2.0
 ===========
 
