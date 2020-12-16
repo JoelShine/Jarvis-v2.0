@@ -22,11 +22,19 @@ Please note that you cannot play **".mp4"** videos in this player if you don't h
 is not necessarily be the same, but you have to download it. It only works with .avi or .mp4 if you don't download K-Lite Codec Pack Basic.
 This is the link to the download - https://files3.codecguide.com/K-Lite_Codec_Pack_1590_Basic.exe
 
+**Screenshot of Jarvis's very own Multimedia Player**
+
 [<img src="https://github.com/JoelShine/Jarvis-v2.0/blob/main/images/Multimedia Player official.png">](https://screenrec.com/share/3BD1q5AT9R)
+
 
 -----------------------------------------------------------------------------------------------------------------------------------------
     
 2 ) Demo of Jarvis very own Launchpad (works perfectly)
+
+[<img src="https://github.com/JoelShine/Jarvis-v2.0/blob/main/images/Jarvis Launchpad.png">](https://screenrec.com/share/rJuHMs4UXQ)
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------
 
 ## To improve this project
 
