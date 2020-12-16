@@ -13,12 +13,11 @@ This is a major update of my project JARVIS-The-Ultimate-Project. You can check 
 
 This project is an example of a virtual assistant like **Siri**, **Cortana**, **Google Assistant** etc. A virtual assistant helps us to control the computer more efficiently and faster. It will be a great experience using Jarvis-v2.0 as it includes a great deal of modules to control the computer. Note that there is both a male voice version and female voice version for jarvis.
 
-## Bits and Bytes of the project
+## Highlights of the project
 
 Some of the project details are given below : 
 
-1 ) Demo of Jarvis's very own Multimedia player (works perfectly) - In this [link](https://screenrec.com/share/3BD1q5AT9R).
-Please note that you cannot play **".mp4"** videos in this player if you don't have this application called K-Lite Codec Pack Basic. Version
+1 ) Demo of Jarvis's very own Multimedia player (works perfectly) - In this [link](https://screenrec.com/share/3BD1q5AT9R), you can see the demo. Please note that you cannot play **".mp4"** videos in this player if you don't have this application called K-Lite Codec Pack Basic. Version
 is not necessarily be the same, but you have to download it. It only works with .avi or .mp4 if you don't download K-Lite Codec Pack Basic.
 This is the link to the download - https://files3.codecguide.com/K-Lite_Codec_Pack_1590_Basic.exe
 
@@ -29,7 +28,9 @@ This is the link to the download - https://files3.codecguide.com/K-Lite_Codec_Pa
 
 -----------------------------------------------------------------------------------------------------------------------------------------
     
-2 ) Demo of Jarvis very own Launchpad (works perfectly)
+2 ) Demo of Jarvis very own Launchpad (works perfectly) - In this [link], you can see the demo. It is a wonderful combination of PyQt5 and many other modules to create this. Hope you enjoy it.
+
+**Screenshot of Jarvis's very own Multimedia Player**
 
 [<img src="https://github.com/JoelShine/Jarvis-v2.0/blob/main/images/Jarvis Launchpad.png">](https://screenrec.com/share/rJuHMs4UXQ)
 
