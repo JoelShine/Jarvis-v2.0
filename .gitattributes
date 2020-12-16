@@ -2,6 +2,12 @@
 
 *.html linguist-detectable=false
 *.dll linguist-detectable=false
+*.toc linguist-detectable=false
+*.exe linguist-detectable=false
+*.pkg linguist-detectable=false
+*.pyz linguist-detectable=false
+*.txt linguist-detectable=false
+*.zip linguist-detectable=false
 
 *.cs diff=csharp text
 *.cginc text
