@@ -1,13 +1,61 @@
 ## Welcome to Jarvis v2.0 Github page.
 
-This is the official website of my project [Jarvis v2.0](https://github.com/JoelShine/Jarvis-v2.0)
+This is the official website of my project [Jarvis v2.0.](https://github.com/JoelShine/Jarvis-v2.0) This project is about my interest in python programming and making my very own virtual assistant. I am a huge fan of Iron Man, not about his suit, but about his virtual assistant, Jarvis. I have uploaded the whole code in my Github repository and it has been a great success !
 
 ## About Jarvis v2.0
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Jarvis v2.0](https://github.com/JoelShine/Jarvis-v2.0) is a virtual assistant project. It is made in python and have possibly included a wide range of modules and hope, it will be good in making this project more effective. Some of the use of modules is given below.
+
+### How to find Weather using Jarvis v2.0
+All instructions are given in my github project page. Please look it. A sample code is below :
 
 ```py
-import pyautogui
+import requests, json
+
+# Enter your API key here
+api_key = "69bf0a590576448ed0bfd804ac2b2694"
+
+# base_url variable to store url
+base_url = "http://api.openweathermap.org/data/2.5/weather?"
+
+speak("Sir please give the city name")
+city_name = takeCommand()
+
+complete_url = base_url + "appid=" + api_key + "&q=" + city_name
+
+# get method of requests module
+# return response object
+response = requests.get(complete_url)
+
+# json method of response object
+# convert json format data into
+# python format data
+x = response.json()
+
+if x["cod"] != "404":
+
+y = x["main"]
+
+current_temperature = y["temp"]
+
+current_pressure = y["pressure"]
+
+current_humidiy = y["humidity"]
+
+z = x["weather"]
+
+weather_description = z[0]["description"]
+celsius = current_temperature-273.15
+
+speak("Sir, Temperature in " + city_name + "is" + str(celsius) + " degree celsius")
+print("Temperature in Celsius = " + str(celsius) + " degree celsius")
+print("Temperature in Farenheit = " + str(celsius*9/5+32) + " degree farenheit")
+
+speak("The weather description is " + str(weather_description))
+print("Atmospheric pressure = " + str(current_pressure) + " mb")
+print("Humidity = " + str(current_humidiy) + " %")
+print("Description = " + str(weather_description))
+print("")
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
