@@ -13,7 +13,7 @@ All instructions are given in my github project page. Please look it. A sample c
 import requests, json
 
 # Enter your API key here
-api_key = "69bf0a590576448ed0bfd804ac2b2694"
+api_key = "Your api key"
 
 # base_url variable to store url
 base_url = "http://api.openweathermap.org/data/2.5/weather?"
