@@ -95,4 +95,8 @@ This project has a variety of features which can help you run the computer more 
 
 Some features of this project, you may find in many other projects. Some of them are below :
 
-1 ) Jarvis v2.0 loading screen was taken from [Wanderson-Magalhaes/Splash_Screen_Python_PySide2](https://github.com/Wanderson-Magalhaes/Splash_Screen_Python_PySide2). 
+1 ) Jarvis v2.0 loading screen was taken from [Wanderson-Magalhaes/Splash_Screen_Python_PySide2](https://github.com/Wanderson-Magalhaes/Splash_Screen_Python_PySide2).
+
+## Major defects of the project
+
+Some parts of this project is made into executables, so it contains many **".dll"** files and it may run only in Windows system. If you want the real python script, please contact me in my [Jarvis v2.0 Discussions](https://github.com/JoelShine/Jarvis-v2.0/discussions/1).
