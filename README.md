@@ -1,4 +1,4 @@
-[![GitHub license](https://img.shields.io/github/license/JoelShine/Jarvis-v2.0?style=flat-square)](https://github.com/JoelShine/Jarvis-v2.0/blob/main/LICENSE) ![Maintenance status](https://img.shields.io/maintenance/yes/2020?style=flat-square) [![GitHub stars](https://img.shields.io/github/stars/JoelShine/Jarvis-v2.0?style=flat-square)](https://github.com/JoelShine/Jarvis-v2.0/stargazers)
+[![GitHub license](https://img.shields.io/github/license/JoelShine/Jarvis-v2.0?style=flat-square)](https://github.com/JoelShine/Jarvis-v2.0/blob/main/LICENSE)[![GitHub stars](https://img.shields.io/github/stars/JoelShine/Jarvis-v2.0?style=flat-square)](https://github.com/JoelShine/Jarvis-v2.0/stargazers)
 
 Jarvis-v2.0
 ===========
