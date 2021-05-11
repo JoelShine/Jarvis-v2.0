@@ -124,7 +124,7 @@ This project has a variety of features which can help you run the computer more 
 Some parts of this project is made into executables, so it contains many **".dll"** files and it may run only in Windows system. If you want the real python script, please contact me in my [Jarvis v2.0 Discussions](https://github.com/JoelShine/Jarvis-v2.0/discussions/1). Another defect is if you have any Antivirus running while downloading or using the program, it may take it as a malware and delete it. So, during the running of this program, No Antivirus should be running in the background.
 
 ## Support
-[<img height="30" src = "https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][Youtube] 
+[<img height="30" src = "https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][youtube] 
 
 Your support encourages me to make more projects and benefit others. Support me on youtube.
 [youtube]: https://www.youtube.com/channel/UCKaqF5TBF2j_R8PB7Sfu_mg/featured/view_as=subscriber
