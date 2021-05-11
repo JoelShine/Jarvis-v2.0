@@ -125,7 +125,7 @@ Some parts of this project is made into executables, so it contains many **".dll
 
 ## Support
 Your support encourages me to make more projects and benefit others. Support me on youtube.
-[<img height="30" src = "https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][youtube] 
+[youtube][<img height="30" src = "https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white">] 
 <br />
 <hr />
 [youtube]: https://www.youtube.com/channel/UCKaqF5TBF2j_R8PB7Sfu_mg/featured/view_as=subscriber
